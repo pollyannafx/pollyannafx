@@ -1,7 +1,7 @@
 # hi i go by finity_cardinal on the internet
 ## general about-me
-i'm some undergraduate student pursuing data science (considering aiming for a public health focus). i love to tinker, and though i'm not super technologically proficient yet, i love to see what i can make computers do. 
-a while ago i decided it'd be a good idea to create a personal github account for projects i wanted to pursue outside of serious work, and i'm trying to be better about maintaining this space. ~~i know that a lot of my material doesn't follow best practices at all but shhh.~~
+i'm some undergraduate student pursuing data science (considering aiming for a public health focus). i love to tinker, and though i still have a lot to learn, i love to see what i can make computers do. 
+a while ago i decided it'd be a good idea to create a personal github account for projects i wanted to pursue outside of serious work, and i'm trying to be better about maintaining this space. i am working on many projects simultaneously; most stuff here is a work in progress. 
 i love long walks, tea, 2000s electronic music, and a rotating assortment of indie games and science fiction. 
 ## assorted fun facts
 - there was a point where i was the top listener on last.fm for both stephen j. kroos and basic perspective.
