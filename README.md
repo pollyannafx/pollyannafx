@@ -1,4 +1,4 @@
-# hi i go by finity_cardinal on the internet
+# bienvenue à tous!
 ## general about-me
 i'm some undergraduate student pursuing data science (considering aiming for a public health focus). i love to tinker, and though i still have a lot to learn, i love to see what i can make computers do. 
 a while ago i decided it'd be a good idea to create a personal github account for projects i wanted to pursue outside of serious work, and i'm trying to be better about maintaining this space. i am working on many projects simultaneously; most stuff here is a work in progress. 
