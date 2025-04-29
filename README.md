@@ -5,8 +5,8 @@ a while ago i decided it'd be a good idea to create a personal github account fo
 i love long walks, tea, 2000s electronic music, and a rotating assortment of indie games and science fiction. 
 
 **[4/28/2025]** the repositories here are so out of date lol
-    - i have ideas i've been cooking, code that i've been working on, and changes i still need to push. 
-    - many projects are never intended to be 100% completed and are intended more as safe spaces for me to practise my skills. that's okay. 
+- i have ideas i've been cooking, code that i've been working on, and changes i still need to push. 
+- many projects are never intended to be 100% completed and are intended more as safe spaces for me to practise my skills. that's okay. 
 
 ## assorted fun facts
 - there was a point where i was the top listener on last.fm for both stephen j. kroos and basic perspective.
