@@ -7,6 +7,7 @@ i love long walks, tea, 2000s electronic music, and a rotating assortment of ind
 **[4/28/2025]** the repositories here are so out of date lol
 - i have ideas i've been cooking, code that i've been working on, and changes i still need to push. 
 - many projects are never intended to be 100% completed and are intended more as safe spaces for me to practise my skills. that's okay.
+- any projects that become good candidates for portfolio work will probably be transferred to my account under my real name. 
 - if you've discovered this place through links under anything attached to my real name, good for you. good. for you. 
 
 ## assorted fun facts
