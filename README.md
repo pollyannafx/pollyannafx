@@ -4,7 +4,7 @@ i'm some undergraduate student pursuing data science (considering aiming for a p
 a while ago i decided it'd be a good idea to create a personal github account for projects i wanted to pursue outside of serious work, and i'm trying to be better about maintaining this space. i am working on many projects simultaneously; most stuff here is a work in progress. 
 i love long walks, tea, 2000s electronic music, and a rotating assortment of indie games and science fiction. 
 
-**[4/28/2025]** the repositories here are so out of date lol
+**[5/6/2025]** the repositories here are (still) so out of date lol
 - i have ideas i've been cooking, code that i've been working on, and changes i still need to push. 
 - many projects are never intended to be 100% completed and are intended more as safe spaces for me to practise my skills. that's okay.
 - any projects that become good candidates for portfolio work will probably be transferred to my account under my real name. 
